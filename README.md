@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![hwanyeong-choi GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanyeong-choi&show_icons=true&theme=radical) 
 [![hwanyeong-choi Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanyeong-choi&layout=donut&theme=radical)](https://github.com/hwanyeong-choi/github-readme-stats)
 
 
