@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![hwanyeong-choi Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanyeong-choi&layout=donut&theme=radical)](https://github.com/hwanyeong-choi/github-readme-stats)
-
+-->
 
 
 <!--
